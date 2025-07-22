@@ -1,0 +1,9 @@
+{
+  "name": "Aura Chat",
+  "description": "A secure, feature-rich messaging application rebranded to 'Aura Chat'. Powered by Google's Gemini API for intelligent conversations, it now includes a customizable theme engine alongside features like UPI payments, interactive polls, and a collaborative canvas.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
