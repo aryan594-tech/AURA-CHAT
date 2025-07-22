@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of Gemini Secure Chat",
+  "description": "A secure, real-time messaging application designed to emulate the core functionalities of popular chat apps like WhatsApp, powered by Google's Gemini API for intelligent conversations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
